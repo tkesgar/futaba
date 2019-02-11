@@ -41,17 +41,6 @@
   },
   "xo": {
     "semicolon": false,
-    "space": 2,
-    "overrides": [
-      {
-        "files": [
-          "__tests__/**/*.js",
-          "**/*.test.js"
-        ],
-        "env": [
-          "jest"
-        ]
-      }
-    ]
+    "space": 2
   }
 }
