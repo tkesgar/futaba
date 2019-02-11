@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generated hash should match snapshot (email: credmond@yahoo.ca) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"+v5gjrLrglYr8j5qWXb1IF+rC4njBl0oR9SkUd/k4Zw=\\",\\"s\\":\\"pKu81w==\\"}"`;
+
+exports[`generated hash should match snapshot (email: frikazoyd@mac.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"2R3eX27XZHoBPlw5obeiRLrrDO8FMDMTGEA4CRuz92k=\\",\\"s\\":\\"uXWBgw==\\"}"`;
+
+exports[`generated hash should match snapshot (email: gknauss@mac.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"BAwxPufkv5dhLI92XAQxNiTkmcbqPnFFrk6eylFhDLg=\\",\\"s\\":\\"yPb1rg==\\"}"`;
+
+exports[`generated hash should match snapshot (email: jwarren@aol.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"cyKWqrANI55ryucC5vaKutyqtoAD41FAtnnx0fWWJP8=\\",\\"s\\":\\"bGNaIQ==\\"}"`;
+
+exports[`generated hash should match snapshot (email: kildjean@optonline.net) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"mF0xtRNw+1VqUHE5ms88akZ1DNIFazZQN4RYjp8kepg=\\",\\"s\\":\\"O/nFfg==\\"}"`;
+
+exports[`generated hash should match snapshot (email: madler@optonline.net) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"tmkQq1jT6jhPxNkabz1ERRmPMSS3er8mE92UvlcptYE=\\",\\"s\\":\\"kKhmug==\\"}"`;
+
+exports[`generated hash should match snapshot (email: njpayne@hotmail.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"oOY7StHxqs/Z9OV1k/cie2nWEZmlZatiAFEtdKdjY4c=\\",\\"s\\":\\"5dd0TA==\\"}"`;
+
+exports[`generated hash should match snapshot (email: sravani@yahoo.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"D0Rf4HCvrMU9d2odVph14qFeoanl1c5KyiNhDJB/kx4=\\",\\"s\\":\\"NP7f8g==\\"}"`;
+
+exports[`generated hash should match snapshot (email: syncnine@mac.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"ijnXAt97MRVNaUcMkClPzfsQ6/3ZzObJvuOyn+v4f0g=\\",\\"s\\":\\"G5goNA==\\"}"`;
+
+exports[`generated hash should match snapshot (email: tokuhirom@live.com) 1`] = `"{\\"v\\":\\"FUTABA10\\",\\"h\\":\\"9MV52K6K9r4g8MlCUR8aTnek01fslSdfr15Oc0kRe4Y=\\",\\"s\\":\\"159q/w==\\"}"`;
