@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "husky": "^2.2.0",
+    "husky": "^2.4.1",
     "jest": "^24.8.0",
     "xo": "^0.24.0"
   },
